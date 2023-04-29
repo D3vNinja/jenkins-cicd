@@ -11,7 +11,7 @@ resource "aws_instance" "demo_ec2" {
   EOF
 
   tags = {
-    Name = "Demo-Ec2-Instance"
+    Name = "Demo-EC2-Instance"
     Session = "Demo-EC2"
   }
 }
