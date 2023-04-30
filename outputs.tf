@@ -1,2 +1,2 @@
-# --- root/outputs.tf ---
+# placeholder
 
