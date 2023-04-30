@@ -1,5 +1,3 @@
-# --- root/backend.tf ---
-
 terraform {
   backend "s3" {
     bucket   = "tf-statefile-bucket"
